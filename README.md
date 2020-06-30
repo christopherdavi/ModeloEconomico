@@ -1,2 +1,3 @@
 # ModeloEconomico
-El programa es una Simulación Económica de una persona que compra un vehículo
+Debes escribir un programa orientado a objetos con lenguaje C#, el tema se basa en una simulación de un modelo económico.
+
